@@ -1,0 +1,7 @@
+C:\Users\Stanislaw\source\repos\practic_module_2\practic_module_2\bin\Debug\practic_module_2.exe.config
+C:\Users\Stanislaw\source\repos\practic_module_2\practic_module_2\bin\Debug\practic_module_2.exe
+C:\Users\Stanislaw\source\repos\practic_module_2\practic_module_2\bin\Debug\practic_module_2.pdb
+C:\Users\Stanislaw\source\repos\practic_module_2\practic_module_2\obj\Debug\practic_module_2.csproj.AssemblyReference.cache
+C:\Users\Stanislaw\source\repos\practic_module_2\practic_module_2\obj\Debug\practic_module_2.csproj.CoreCompileInputs.cache
+C:\Users\Stanislaw\source\repos\practic_module_2\practic_module_2\obj\Debug\practic_module_2.exe
+C:\Users\Stanislaw\source\repos\practic_module_2\practic_module_2\obj\Debug\practic_module_2.pdb
